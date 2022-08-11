@@ -23,8 +23,6 @@ img.lado{
     float: right;
 }
 
-
-
 main{
     background-color: white;
     width: 500px;
@@ -41,5 +39,8 @@ footer{
     margin-top: 10px;
     align-items: center;
     text-align: center;
-    
+}
+
+footer p a{
+    color: white;
 }
