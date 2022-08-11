@@ -15,9 +15,15 @@ h1{
     color: rgb(95, 6, 177);
 }
 
+a{
+    text-decoration: none;
+}
+
 img.lado{
     float: right;
 }
+
+
 
 main{
     background-color: white;
